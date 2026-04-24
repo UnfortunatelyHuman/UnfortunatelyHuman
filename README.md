@@ -1,18 +1,67 @@
-<h1 align="center">Hi 👋, I'm Dhruv Patel</h1>
-<h3 align="center">A passionate Mobile application developer.</h3>
+# Dhruv Patel | Software Systems Architect
+### High-Performance Mobile & Web Solutions
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=unfortunatelyhuman&label=Profile%20views&color=0e75b6&style=flat" alt="unfortunatelyhuman" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unfortunatelyhuman" alt="unfortunatelyhuman" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/dpatel07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/dpatel07/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=unfortunatelyhuman&label=Engine%20Cycles&color=ADC7FF&style=flat-square" alt="Engine Cycles" />
+  <img src="https://github-profile-trophy.vercel.app/?username=unfortunatelyhuman&theme=darkhub&margin-w=15&column=3" alt="Trophies" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=unfortunatelyhuman&show_icons=true&locale=en&layout=compact" alt="unfortunatelyhuman" /></p>
+## ⚡ Technical Arsenal
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=unfortunatelyhuman&show_icons=true&locale=en" alt="unfortunatelyhuman" /></p>
+> **"Architecting seamless digital experiences through code precision and structural integrity."**
+
+| Category | Technologies |
+| :--- | :--- |
+| **Mobile** | React Native, Native iOS (Swift), Native Android (Kotlin/Java) |
+| **Web** | Next.js, TypeScript, Tailwind CSS, CodeIgniter, PHP |
+| **Backend & Data** | Node.js, Firebase, MySQL, RESTful APIs |
+| **Engineering** | Chrome Extension API, WAF Bypass, System Automation, UI/UX Design (Figma) |
+
+---
+
+## 🛠️ Featured Deployments
+
+### ♟️ [Cyber Chess Analyzer](https://github.com/unfortunatelyhuman/chess-analyzer)
+A high-performance analysis engine utilizing **Stockfish 11 (WASM)**.
+- **Impact:** Engineered a real-time "Coach Speak" translator that converts raw engine evaluations into human-readable tactical advice.
+- **Key Tech:** Vanilla JavaScript, Web Workers, PWA integration, custom SVG arrow drawing logic.
+
+### 📱 [Enjoyee - Social Video Platform](https://github.com/unfortunatelyhuman/enjoyee)
+A dynamic short-video sharing platform built for high-concurrency mobile engagement.
+- **Impact:** Implemented infinite scrolling feeds and real-time video processing using Firebase and Node.js.
+- **Key Tech:** React Native, Firebase, Node.js.
+
+### 🤖 [Warehouse Automation Engine](https://github.com/unfortunatelyhuman/amazon-bot)
+A sophisticated Chrome Extension (Manifest V3) designed to automate high-frequency scheduling tasks.
+- **Impact:** Developed custom logic to bypass Web Application Firewalls (WAF) and 403 Forbidden errors by optimizing browser headers.
+- **Key Tech:** JavaScript, Chrome Extension API, Network Security.
+
+---
+
+## 🎓 Academic Excellence
+* **Postgraduate in Mobile & Web Development** | Fanshawe College
+* [cite_start]**GPA:** 4.06 / 4.0 (President's Honour Roll & Distinction) [cite: 1848, 1850]
+
+---
+
+## 📈 Technical Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=unfortunatelyhuman&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ADC7FF&text_color=FFFFFF&icon_color=ADC7FF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unfortunatelyhuman&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ADC7FF&text_color=FFFFFF" />
+</p>
+
+---
+
+## 📫 Connect with the Architect
+
+<p align="left">
+  <a href="https://linkedin.com/in/dpatel07/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
